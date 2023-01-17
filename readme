@@ -1,0 +1,8 @@
+This is a weird project that i thought up while drinking coffee.
+
+The first iteration is just a series of conditional statements based around the choice the user generates.
+
+The second is based around the integer the choice makes, in this case a random choice performed by the randint() function, range specified as between the coffee numbers - this list serves as a reference/ index in itself to allow the type sensitive functions to work.
+
+
+Further iterations could be some sort of recurring choice, or possibly even measure how many times the random choice picks an item using data analyses (matplotlib etc).
